@@ -17,6 +17,6 @@ The **Job Analytics Portal** project aims to explore and analyze comprehensive j
 
 All visuals were developed in Tableau and embedded in a dashboard designed for interactive exploration.
 
-🔗 **Live Netlify Dashboard**: https://jobanalytics-portal.netlify.app/
+🔗 **Live Netlify Dashboard**: [https://jobanalytics-portal.netlify.app/](https://jobanalytics-portal.netlify.app/)
 
 
